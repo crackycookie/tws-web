@@ -5,6 +5,8 @@ Side project for TWS Mindustry Server
 https://tws.surge.sh/
 
 # Todo list
+## Overall
+- [ ] Review colours
 
 ## Homepage
 - [ ] Add donation link somewhere
