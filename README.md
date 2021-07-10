@@ -10,7 +10,7 @@ https://tws.surge.sh/
 
 ## Homepage
 - [ ] Add donation link somewhere
-- [ ] Copy FAQ from discord & change style
+- [x] Copy FAQ from discord & change style
 ## Test Question
 - [ ] Add last update date
 - [ ] Need translation
