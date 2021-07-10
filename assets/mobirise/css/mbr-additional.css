@@ -1,3 +1,4 @@
+/*custom*/
 html {
   scroll-behavior: smooth;
 }
@@ -10,7 +11,6 @@ html {
 .cid-sC0reQn69y .socicon-bg-discord:hover {
   background: #4954cc;
 }
-
 body {
   font-family: Jost;
 }
@@ -1490,9 +1490,9 @@ a {
   text-align: left;
 }
 .cid-sCwvKQeazS {
-  padding-top: 0rem;
+  padding-top: 6rem;
   padding-bottom: 6rem;
-  background-color: #ffffff;
+  background-color: #fafafa;
 }
 .cid-sCwvKQeazS .mbr-iconfont {
   font-size: 1.4rem !important;
@@ -1521,6 +1521,9 @@ a {
 }
 .cid-sCwvKQeazS H3 {
   color: #232323;
+}
+.cid-sCwvKQeazS .panel-text {
+  text-align: left;
 }
 .cid-sC0reQn69y {
   padding-top: 5rem;
