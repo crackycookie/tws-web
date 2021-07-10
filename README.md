@@ -7,6 +7,7 @@ https://tws.surge.sh/
 # Todo list
 ## Overall
 - [ ] Review colours
+- [ ] Generate cookie policy
 
 ## Homepage
 - [ ] Add donation link somewhere
